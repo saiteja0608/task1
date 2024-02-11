@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #89d9ed;
+  padding: 10px;
+  text-align: center;
+}
+
+.features {
+  background-color: #80d5f107;
+  padding: 100px;
+  text-align: center;
+  color: cadetblue;
+}
+
+.cta {
+  background-color: #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+}
+
+#kaja{
+  color: #89d9ed;
+}
+
+.UL{
+  display: flex;
+  flex-direction: column;
+}
+
+li{
+  list-style: none;
+}
